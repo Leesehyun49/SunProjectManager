@@ -146,16 +146,23 @@
 
 
 ### 4.2 마이페이지
-#### [SONIC GIT 보러가기](https://github.com/Leesehyun49/SunProjectManager)
+
+[![마이페이지 영](https://img.youtube.com/vi/AGtWQ83rMTE/0.jpg)](https://youtu.be/AGtWQ83rMTE)
 
 ### 4.3 채팅
-#### [SONIC GIT 보러가기](https://github.com/Leesehyun49/SunProjectManager)
+
+[![채팅 영상](https://img.youtube.com/vi/4DVkq1EMirg/0.jpg)](https://youtu.be/4DVkq1EMirg)
+
 
 ### 4.4 인사관리
-#### [SONIC GIT 보러가기](https://github.com/Leesehyun49/SunProjectManager)
+
+[![인사관리 영상](https://img.youtube.com/vi/Dcy6RD4I4ho/0.jpg)](https://youtu.be/Dcy6RD4I4ho)
+
 
 ### 4.5 공지사항 게시판
-#### [SONIC GIT 보러가기](https://github.com/Leesehyun49/SunProjectManager)
+
+[![공지사항 영상](https://img.youtube.com/vi/79yz1n7DSRk/0.jpg)](https://youtu.be/79yz1n7DSRk)
+
 
 ### 4.6 전자결재
 #### [RUBI GIT 보러가기](https://github.com/Ahyoung0615/SunProjectManager) 
