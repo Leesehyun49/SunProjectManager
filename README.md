@@ -140,6 +140,7 @@
 
 
 ### 4.1 로그인 로그아웃
+##### ☀️ 담당기능
 
 
 [![로그인 영상](https://img.youtube.com/vi/eRiS9_uxjdo/0.jpg)](https://youtu.be/eRiS9_uxjdo)
@@ -160,6 +161,8 @@
 
 
 ### 4.2 마이페이지
+##### ☀️ 담당기능
+
 
 [![마이페이지 영](https://img.youtube.com/vi/AGtWQ83rMTE/0.jpg)](https://youtu.be/AGtWQ83rMTE)
 
@@ -179,6 +182,8 @@
 
 
 ### 4.3 채팅
+##### ☀️ 담당기능
+
 
 [![채팅 영상](https://img.youtube.com/vi/4DVkq1EMirg/0.jpg)](https://youtu.be/4DVkq1EMirg)
 
@@ -201,6 +206,8 @@
 
 
 ### 4.4 인사관리
+##### ☀️ 담당기능
+
 
 [![인사관리 영상](https://img.youtube.com/vi/Dcy6RD4I4ho/0.jpg)](https://youtu.be/Dcy6RD4I4ho)
 
@@ -220,6 +227,8 @@
 
 
 ### 4.5 공지사항 게시판
+##### ☀️ 담당기능
+
 
 [![공지사항 영상](https://img.youtube.com/vi/79yz1n7DSRk/0.jpg)](https://youtu.be/79yz1n7DSRk)
 
@@ -274,27 +283,6 @@
 
 
 -----------------------------
-
-
-## 5. 성능 개선
-### 캘린더 데이터 송수신 속도 개선
-
-
-#### 1) 기존: 사용자가 페이지 진입 시 프론트 서버에서 컴포넌트 마운트 후 GoogleCalendar API 호출, 화면에 최종 출력 **2.46초** 소요.
-
-
-
-
-#### 2) 1차 개선: 서버에서 1년치 데이터를 미리 요청하여 **0.9초**로 단축.
-![image](https://github.com/user-attachments/assets/6858bb65-a5ac-45b0-942d-b1841b172772)
-
-
-
-
-#### 3) 2차 개선: Redis 서버를 이용한 데이터 캐싱으로 **0.4초**로 성능 개선, 과도한 외부 API 호출 방지.
-![image](https://github.com/user-attachments/assets/2b811485-1168-4fc8-8a1e-a35129bbcba1)
-
-
 
 
 
